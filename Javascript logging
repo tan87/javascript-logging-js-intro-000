@@ -1,0 +1,14 @@
+console
+Object {}
+console.log("I'm logging! I'm a regular lumberjack!")
+VM933:1 I'm logging! I'm a regular lumberjack!
+undefined
+console.log("I must have logged",1000,"times today.")
+VM1047:1 I must have logged 1000 times today.
+undefined
+console.error('Danger, Will Robinson!')
+VM1160:1 Danger, Will Robinson!(anonymous function) @ VM1160:1
+undefined
+console.warn('Hm, you might not want to do that.')
+VM1274:1 Hm, you might not want to do that.
+undefined
